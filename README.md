@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing Computer Science and Engineering<br>🌱 I’m currently learning Data Science<br>👯 I’m looking to collaborate on with other developers<br>⚡ Fun fact: I love to play with numbers :)
+*🔭 I’m currently pursuing **Computer Science and Engineering**<br>🌱 I’m currently learning **Data Science**<br>👯 I’m looking to collaborate on with **other developers**<br>⚡ Fun fact: **I love to play with numbers :)***
 
 
 ## 🌐 Socials:

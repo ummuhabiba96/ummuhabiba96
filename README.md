@@ -1,6 +1,8 @@
+
+[![](https://visitcount.itsvg.in/api?id=ummuhabiba96&icon=4&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 *🔭 I’m currently pursuing **Computer Science and Engineering**<br>🌱 I’m currently learning **Data Science**<br>👯 I’m looking to collaborate on with **other developers**<br>⚡ Fun fact: **I love to play with numbers :)***
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/ummu_habibi_96#6268) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/habi_bee._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ummuhabiba96) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ummuhabiba96) 
@@ -14,6 +16,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=ummuhabiba96&icon=4&color=0)](https://visitcount.itsvg.in)
